@@ -11,7 +11,7 @@
 
 I’m a **Software Engineering Student** specializing in:
 
-🌐 Backend Development with **Laravel & Node.js**  
+🌐 Backend Development with **Laravel , Node.js, Springboot**  
 🧩 3D Design using **Autodesk Fusion**  
 🌍 Building **Digital Twins** with **Unreal Engine**  
 🚀 Passionate about web systems, immersive technologies & simulation
